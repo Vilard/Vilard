@@ -1,5 +1,17 @@
 ### Projects
 
+### ja2weap1 
+
+Catalog of weapons for the urban chaos modification
+jagged alliance 2
+
+---
+
+### JA2
+
+Database project for one of the modifications of the game Jagged Aliance 2
+
+---
 
 ### grif 
 
