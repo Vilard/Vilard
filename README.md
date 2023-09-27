@@ -1,19 +1,19 @@
 ### Projects
 
-### ja2weap1 
+### [ja2weap1](https://github.com/Vilard/ja2weap1)
 
 Catalog of weapons for the urban chaos modification
 jagged alliance 2
 
 ---
 
-### JA2
+### [JA2](https://github.com/Vilard/ja2)
 
 Database project for one of the modifications of the game Jagged Aliance 2
 
 ---
 
-### grif 
+### [grif](https://github.com/Vilard/grif) 
 
 The project was made to make it easier to master scales on the guitar fretboard in various guitar stances 
 
@@ -21,7 +21,7 @@ http://guitar-grif.surge.sh
 
 ---
 
-### pg-ng-to-server
+### [pg-ng-to-server](https://github.com/Vilard/pg-ng-to-server-)
 
 The project was created by order of the company "Project Group Our City"
 
@@ -31,7 +31,7 @@ http://pg-ng.com/
 
 ---
 
-### komaroff
+### [komaroff](https://github.com/Vilard/komaroff)
 
 The site was created by order of the Komaroff company.
 
@@ -40,11 +40,13 @@ https://komaroff35.ru/
 
 ---
 
-### amper
-### es-amper-j
-### es-amper.com
+### [amper](https://github.com/Vilard/amper)
+### [es-amper-j](https://github.com/Vilard/es-amper-j)
+### [es-amper.com](https://github.com/Vilard/es-amper.com)
 
 Variants of my sites written on different stacks were located at es-amper.com, currently not working
+
+
 
 ---
 
@@ -61,7 +63,10 @@ Variants of my sites written on different stacks were located at es-amper.com, c
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
 ---
+
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vilard&theme=dark&background=000000)](https://git.io/streak-stats)
