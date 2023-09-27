@@ -24,6 +24,7 @@ http://guitar-grif.surge.sh
 ### pg-ng-to-server
 
 The project was created by order of the company "Project Group Our City"
+
 The site of the company 
 
 http://pg-ng.com/
@@ -33,7 +34,7 @@ http://pg-ng.com/
 ### komaroff
 
 The site was created by order of the Komaroff company.
-The site of the company
+
 
 https://komaroff35.ru/
 
