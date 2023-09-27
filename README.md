@@ -1,3 +1,40 @@
+### Projects
+
+
+### grif 
+
+The project was made to make it easier to master scales on the guitar fretboard in various guitar stances 
+
+http://guitar-grif.surge.sh
+
+---
+
+### pg-ng-to-server
+
+The project was created by order of the company "Project Group Our City"
+The site of the company 
+
+http://pg-ng.com/
+
+---
+
+### komaroff
+
+The site was created by order of the Komaroff company.
+The site of the company
+
+https://komaroff35.ru/
+
+---
+
+### amper
+### es-amper-j
+### es-amper.com
+
+Variants of my sites written on different stacks were located at es-amper.com, currently not working
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
