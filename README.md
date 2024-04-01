@@ -1,5 +1,10 @@
 ### Projects
 
+### [Ja2UC Mod extantion items](https://github.com/Vilard/Ja2UC_mod_extantion_items)
+Modification of JA2 UC, expanding the capabilities of some items.
+
+---
+
 ### [ja2weap1](https://github.com/Vilard/ja2weap1)
 
 Catalog of weapons for the urban chaos modification
